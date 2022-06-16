@@ -1,0 +1,16 @@
+.timer {
+  display: flex;
+}
+.field {
+  margin: 10px 15px;
+}
+.value {
+  display: block;
+  text-align: center;
+  font-size: 3em;
+}
+.label {
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+}
